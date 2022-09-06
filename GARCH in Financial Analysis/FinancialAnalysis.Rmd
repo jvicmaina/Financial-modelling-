@@ -1,0 +1,13 @@
+## [1] "Number of observations in training set: 505 (82.11%)"
+## [1] "Number of observations in testing set: 110 (17.89%)"
+#GARCH IN R 
+```{ r warning =FALSE, message =FALSE}
+library(fGarch)
+library(rugarch)
+library(rmgarch)
+library(quantmod)
+```
+```{r}
+
+```
+
